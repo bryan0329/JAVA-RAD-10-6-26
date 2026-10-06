@@ -1,0 +1,11 @@
+public class Main{
+    public static void main(String[] args){
+        String name = "John Bryan Torres";
+        int age = 21;
+        String address = "Hacienda Dolores, Porac";
+        double weight = 55.6;
+        double height = 169.0;
+        
+        System.out.println("My name is "+ name +", I am "+ age +" years old. I live at "+ address +" my weight is "+ weight +" and my height "+ height +" cm");
+    }
+}
